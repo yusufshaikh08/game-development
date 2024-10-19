@@ -6,3 +6,8 @@
     width: 340px;
     height: 200px;
 }
+.navbar-brand{
+    font-size: larger;
+    font-weight: bolder;
+    text-transform: uppercase;
+}
